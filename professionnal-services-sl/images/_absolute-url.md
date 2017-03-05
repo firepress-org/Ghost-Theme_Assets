@@ -1,4 +1,12 @@
-## absolute url for themes-content/112_readiness/images/
+## absolute URLS:
+https://raw.githubusercontent.com/firepress-org/theme-assets/master/professionnal-services-sl/
+
+
+### core-blog-cover.jpg
+https://raw.githubusercontent.com/firepress-org/theme-assets/master/professionnal-services-sl/images/header-main-sara-lawrence-2.png
+
+### core-blog-logo-100px.png
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-blog-logo-100px.png
 
 ### core-author-cover.jpg (user Sara)
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-author-cover.jpg
@@ -6,14 +14,6 @@ https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readin
 ### core-author-profile.jpg (user Sara)
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-author-profile.jpg
 	
-	credits to Kristina Servant http://bit.ly/2bfknUI
-
-### core-blog-logo-100px.png
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-blog-logo-100px.png
-
-### core-blog-cover.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-blog-cover.jpg
-
 ---
 
 ### header-samantha-lawyer_115.jpg
