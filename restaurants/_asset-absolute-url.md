@@ -1,5 +1,5 @@
 ## Base URL:
-https://raw.githubusercontent.com/firepress-org/theme-assets/master/professionnal-services/martine-nadall/images/
+https://raw.githubusercontent.com/firepress-org/theme-assets/master/restaurants/mamma-mia/images/menu-pizza/margherita-pizza.jpg
 
 ### core-blog-cover.jpg
 https://raw.githubusercontent.com/firepress-org/theme-assets/master/professionnal-services/martine-nadall/images/header-main-martine-nadall-a.jpg
