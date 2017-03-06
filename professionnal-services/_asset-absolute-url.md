@@ -1,8 +1,8 @@
 ## Base URL:
-https://raw.githubusercontent.com/firepress-org/theme-assets/master/professionnal-services/martine-nadall/
+https://raw.githubusercontent.com/firepress-org/theme-assets/master/professionnal-services/martine-nadall/images/
 
 ### core-blog-cover.jpg
-https://raw.githubusercontent.com/firepress-org/theme-assets/master/professionnal-services/martine-nadall/header-main-martine-nadall-a.jpg
+https://raw.githubusercontent.com/firepress-org/theme-assets/master/professionnal-services/martine-nadall/images/header-main-martine-nadall-a.jpg
 
 ### core-blog-logo-100px.png
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-blog-logo-100px.png
