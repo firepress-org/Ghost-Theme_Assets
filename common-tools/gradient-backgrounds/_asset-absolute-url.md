@@ -1,3 +1,2 @@
 ## gradient-backgrounds
-https://raw.githubusercontent.com/firepress-org/theme-assets/master/common-tools/gradient-backgrounds/163-Fresh-Oasis.jpg
-
+https://raw.githubusercontent.com/firepress-org/theme-assets/master/common-tools/gradient-backgrounds/119-Chemic-Aqua.jpg
