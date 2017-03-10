@@ -4,3 +4,5 @@ https://raw.githubusercontent.com/firepress-org/theme-assets/master/common-tools
 https://raw.githubusercontent.com/firepress-org/theme-assets/master/common-tools/gradient-backgrounds/029-Everlasting-Sky.jpg
 
 https://raw.githubusercontent.com/firepress-org/theme-assets/master/common-tools/gradient-backgrounds/092-Japan-Blush.jpg
+
+https://raw.githubusercontent.com/firepress-org/theme-assets/master/common-tools/gradient-backgrounds/047-Fly-High.jpg
