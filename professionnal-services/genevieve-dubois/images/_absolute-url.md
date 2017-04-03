@@ -1,10 +1,11 @@
 ## absolute url for themes-content/112_readiness/images/
+https://raw.githubusercontent.com/firepress-org/theme-assets/master/professionnal-services/genevieve-dubois/images/xyz…
 
 ### core-author-cover.jpg (user Sara)
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-author-cover.jpg
+https://raw.githubusercontent.com/firepress-org/theme-assets/master/professionnal-services/genevieve-dubois/images/core-author-cover.jpg
 
 ### core-author-profile.jpg (user Sara)
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-author-profile.jpg
+https://raw.githubusercontent.com/firepress-org/theme-assets/master/professionnal-services/genevieve-dubois/images/core-author-profile.jpg
 	
 	credits to Kristina Servant http://bit.ly/2bfknUI
 
@@ -46,7 +47,7 @@ https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readin
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/mobile-first.jpg
 
 ### profile-mike.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/profile-mike.jpg
+https://raw.githubusercontent.com/firepress-org/theme-assets/master/professionnal-services/genevieve-dubois/images/this-is-mike.jpg
 
 ### map3.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/map3.jpg
@@ -75,3 +76,6 @@ https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readin
 
 # random
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/_random/logo-firepress-310-110.png
+
+# welcome
+https://raw.githubusercontent.com/firepress-org/theme-assets/master/professionnal-services/genevieve-dubois/images/welcome.jpg
