@@ -14,4 +14,4 @@ https://raw.githubusercontent.com/firepress-org/theme-assets/master/professionna
 
 https://raw.githubusercontent.com/firepress-org/theme-assets/master/professionnal-services/martine-nadall/images/core-author-cover.jpg
 
-https://raw.githubusercontent.com/firepress-org/theme-assets/master/professionnal-services/martine-nadall/images/xyz.jpg
+https://raw.githubusercontent.com/firepress-org/theme-assets/master/professionnal-services/martine-nadall/images/light-sky-blurry.jpg
