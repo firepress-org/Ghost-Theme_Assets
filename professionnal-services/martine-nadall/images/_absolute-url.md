@@ -4,6 +4,8 @@ https://raw.githubusercontent.com/firepress-org/theme-assets/master/professionna
 
 https://raw.githubusercontent.com/firepress-org/theme-assets/master/professionnal-services/martine-nadall/images/office-conference.jpg
 
+https://raw.githubusercontent.com/firepress-org/theme-assets/master/professionnal-services/martine-nadall/images/martine-nadal.jpg
+
 https://raw.githubusercontent.com/firepress-org/theme-assets/master/professionnal-services/martine-nadall/images/production.jpg
 
 https://raw.githubusercontent.com/firepress-org/theme-assets/master/professionnal-services/martine-nadall/images/portefolio-preview_top-5.jpg
