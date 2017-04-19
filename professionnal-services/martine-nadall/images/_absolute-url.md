@@ -1,6 +1,6 @@
 ### /martine-nadall/images
 
-https://raw.githubusercontent.com/firepress-org/theme-assets/master/professionnal-services/martine-nadall/images/header-main-martine-nadall-a.jpg
+https://raw.githubusercontent.com/firepress-org/theme-assets/master/professionnal-services/martine-nadall/images/main-header.jpg
 
 https://raw.githubusercontent.com/firepress-org/theme-assets/master/professionnal-services/martine-nadall/images/office-conference.jpg
 
