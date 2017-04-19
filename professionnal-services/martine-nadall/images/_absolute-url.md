@@ -12,6 +12,6 @@ https://raw.githubusercontent.com/firepress-org/theme-assets/master/professionna
 
 https://raw.githubusercontent.com/firepress-org/theme-assets/master/professionnal-services/martine-nadall/images/2-friends.jpg
 
-https://raw.githubusercontent.com/firepress-org/theme-assets/master/professionnal-services/martine-nadall/images/xyz.jpg
+https://raw.githubusercontent.com/firepress-org/theme-assets/master/professionnal-services/martine-nadall/images/core-author-cover.jpg
 
 https://raw.githubusercontent.com/firepress-org/theme-assets/master/professionnal-services/martine-nadall/images/xyz.jpg
