@@ -21,8 +21,8 @@ You can follow us...
 
 *(Click on it to open in Google Map.)*
 
-[![](https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/map3.jpg)](https://www.google.ca/maps/@45.4549261,-73.5701503,17z)
+[![](https://raw.githubusercontent.com/firepress-org/theme-assets/master/professional-services/martine-nadal/images/map3.jpg)](https://www.google.ca/maps/@45.4549261,-73.5701503,17z)
 
-*(Psst psst.. want to start a website like this one? Request your [free 21-Day trial here](http://firepress.org/blog/sign-up-for-your-free-21-day-trial-at-firepress/))*
+*(Psst psst.. Want to start a website like this one? Request your [free 21-Day trial here](http://firepress.org/blog/sign-up-for-your-free-21-day-trial-at-firepress/))*
 
 <a href="/news/services/" class="button button-block button-primary button-rounded">Service ></a>

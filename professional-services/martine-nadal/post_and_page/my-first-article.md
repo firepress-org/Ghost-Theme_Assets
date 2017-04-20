@@ -1,8 +1,8 @@
-If you plan to publish content you may want to use the blog function out of your website. Here a some examples of what you can do. Let's start!
+If you plan to publish content, you may want to use the blog function out of your website. Here some examples of what you can do. Let's start!
 
 ### Formatting your content
 
-Markdown is a very simple formatting syntax for you content. Think about the looks these elements: headers, bold, bulleted lists, link, inserting a picture, etc. It was originally designed to be an easy alternative to HTML. It allows everyone to publish web pages with no HTML experience.
+Markdown is a very simple formatting syntax for your content. Think about the looks these elements: headers, bold, bulleted lists, links, inserting a picture, etc. It was originally designed to be an easy alternative to HTML. It allows everyone to publish web pages with no HTML experience.
 
 ### Bold, italic
 
@@ -10,13 +10,13 @@ Who does not love putting **stuff in bold**... *you know what I mean*?
 
 ### Links
 
-Paste in a URL, like http://firepress.org/ — it'll automatically be linked up. You can also customise your anchor text, like this > [FirePress page](http://firepress.org/).
+Paste in a URL, like http://firepress.org/ — it'll automatically be linked up. You can also customize your anchor text, like this > [FirePress page](http://firepress.org/).
 
 ### What about Images?
 
 Images work too! Already know the URL of the image you want to include in your article? Simply paste it in like this to make it show up:
 
-![](https://raw.githubusercontent.com/firepress-org/theme-assets/master/professionnal-services/martine-nadall/images/martine-nadal.jpg)
+![](https://raw.githubusercontent.com/firepress-org/theme-assets/master/professional-services/martine-nadal/images/martine-nadal.jpg)
 
 ### Bullet points
 

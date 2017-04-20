@@ -6,15 +6,18 @@ We shine at:
 
 - Social network content creation
 - Content creation on FirePress
-- SEO optimisation
+- SEO optimization
 - Banner et flyer infography
 - Video, TV, Radio
 - Print
 
 ![](https://raw.githubusercontent.com/firepress-org/theme-assets/master/professional-services/martine-nadal/images/production.jpg)
 
-### Pricing | Social networks nurturing
+### Social networks nurturing
 <br>
+
+Operate and execute the core of your business is taking all your time? This is not a reason to give up on social networks. Let our creative people do it for you!
+
 <div class="grid">
     <div class="col-10-12 mobile-col-10-12">
         <div class="content">
@@ -65,13 +68,16 @@ We shine at:
 
 ---
 
-### Pricing | Logo
+### Logo
 <br>
+
+Starting from scratch or need to refresh your brand, we are here to help. Your logo exists to make your first impression a great one.
+
 <div class="grid">
     <div class="col-10-12 mobile-col-10-12">
         <div class="content">
 🕯 Includes 3 hours of creation<br>
-🕯 Includes communications fees<br>
+🕯 Includes communication fees<br>
 🕯 PSD and vector output
         </div>
     </div>
@@ -84,8 +90,11 @@ We shine at:
 
 ---
 
-### Pricing | SEO optimisation
+### SEO optimization
 <br>
+
+Search engine optimization (SEO) essential. SEO is about making your website speak the same language as Google, Yahoo, Bing and other search engines. If you are not certain if your site is optimized then it's probably not. We use [FirePress](http://firepress.org/) as our core content management system (CMS). It makes each page and posts SEO friendly.
+
 <div class="grid">
     <div class="col-10-12 mobile-col-10-12">
         <div class="content">
@@ -104,7 +113,7 @@ n/a
 
 ### Testimonials
 
-> I'm very impressed by what Sara did for my website. I couldn't have make it without you! xoxx<br>
+> I'm very impressed by what Sara did for my website. I couldn't have made it without you! xoxx<br>
 — [Katy Perry](https://twitter.com/katyperry?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) 
 
 ---
@@ -129,6 +138,6 @@ n/a
 
 ![](https://raw.githubusercontent.com/firepress-org/theme-assets/master/professional-services/martine-nadal/images/animated-good-job.gif)
 
-*(Psst psst.. want to start a website like this one? Request your [free 21-Day trial here](http://firepress.org/blog/sign-up-for-your-free-21-day-trial-at-firepress/))*
+*(Psst psst.. Want to start a website like this one? Request your [free 21-Day trial here](http://firepress.org/blog/sign-up-for-your-free-21-day-trial-at-firepress/))*
 
 <a href="/news/portfolio/" class="button button-block button-primary button-rounded">Portfolio ></a>
