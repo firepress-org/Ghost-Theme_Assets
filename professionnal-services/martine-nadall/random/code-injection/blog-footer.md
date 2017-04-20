@@ -1,3 +1,0 @@
-<!-- Script name -->
-
-<!-- Script name -->
