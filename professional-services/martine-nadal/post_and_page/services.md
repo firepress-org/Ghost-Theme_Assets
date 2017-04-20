@@ -11,30 +11,17 @@ We shine at:
 - Video, TV, Radio
 - Print
 
-![](https://raw.githubusercontent.com/firepress-org/theme-assets/master/professionnal-services/martine-nadall/images/production.jpg)
+![](https://raw.githubusercontent.com/firepress-org/theme-assets/master/professional-services/martine-nadal/images/production.jpg)
 
-### Pricing | Content creation
-
+### Pricing | Social networks nurturing
+<br>
 <div class="grid">
     <div class="col-10-12 mobile-col-10-12">
         <div class="content">
-Understand what you want to accomplish and starting with the end in mind.
-        </div>
-    </div>
-    <div class="col-2-12 mobile-col-2-12">
-        <div class="content push-right">
-450$
-        </div>
-    </div>
-</div>
-
-<div class="grid">
-    <div class="col-10-12 mobile-col-10-12">
-        <div class="content">
-Posting original content on 3 social networks<br>
-Every morning<br>
-5 days a week<br>
-Billed each month
+💡 Publish original content over 3 social networks<br>
+💡 Every morning<br>
+💡 5 days a week<br>
+💡 Billed each month
         </div>
     </div>
     <div class="col-2-12 mobile-col-2-12">
@@ -47,10 +34,10 @@ Billed each month
 <div class="grid">
     <div class="col-10-12 mobile-col-10-12">
         <div class="content">
-Posting original content on 3 social networks<br>
-Twice a day<br>
-5 days a week<br>
-Billed each month
+🕯 Publish original content over 3 social networks<br>
+🕯 Twice a day<br>
+🕯 5 days a week<br>
+🕯 Billed each month
         </div>
     </div>
     <div class="col-2-12 mobile-col-2-12">
@@ -63,10 +50,10 @@ Billed each month
 <div class="grid">
     <div class="col-10-12 mobile-col-10-12">
         <div class="content">
-Posting original content on 3 social networks<br>
-Twice a day<br>
-7 days a week<br>
-Billed each month
+💡 Publish original content over 3 social networks<br>
+💡 Twice a day<br>
+💡 7 days a week<br>
+💡 Billed each month
         </div>
     </div>
     <div class="col-2-12 mobile-col-2-12">
@@ -79,12 +66,13 @@ Billed each month
 ---
 
 ### Pricing | Logo
-
+<br>
 <div class="grid">
     <div class="col-10-12 mobile-col-10-12">
         <div class="content">
-Most logos are created with 3 hours<br>
-Include communications fees<br>
+🕯 Includes 3 hours of creation<br>
+🕯 Includes communications fees<br>
+🕯 PSD and vector output
         </div>
     </div>
     <div class="col-2-12 mobile-col-2-12">
@@ -97,12 +85,12 @@ Include communications fees<br>
 ---
 
 ### Pricing | SEO optimisation
-
+<br>
 <div class="grid">
     <div class="col-10-12 mobile-col-10-12">
         <div class="content">
-Depends so much on the quality of your existing content<br>
-Please contact us
+💡 Depends so much on the quality of your existing content<br>
+💡 Please contact us
         </div>
     </div>
     <div class="col-2-12 mobile-col-2-12">
@@ -139,7 +127,7 @@ n/a
 > Sara has nailed it with FirePress!<br>
 — [Pascal Andy](http://pascalandy.com/)
 
-![](https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/animated-good-job.gif)
+![](https://raw.githubusercontent.com/firepress-org/theme-assets/master/professional-services/martine-nadal/images/animated-good-job.gif)
 
 *(Psst psst.. want to start a website like this one? Request your [free 21-Day trial here](http://firepress.org/blog/sign-up-for-your-free-21-day-trial-at-firepress/))*
 
