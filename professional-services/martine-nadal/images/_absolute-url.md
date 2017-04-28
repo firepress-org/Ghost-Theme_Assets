@@ -17,3 +17,5 @@ https://raw.githubusercontent.com/firepress-org/theme-assets/master/professional
 https://raw.githubusercontent.com/firepress-org/theme-assets/master/professional-services/martine-nadal/images/core-author-cover.jpg
 
 https://raw.githubusercontent.com/firepress-org/theme-assets/master/professional-services/martine-nadal/images/light-sky-blurry.jpg
+
+https://raw.githubusercontent.com/firepress-org/theme-assets/master/professional-services/martine-nadal/images/navigation-blog-d.jpg
