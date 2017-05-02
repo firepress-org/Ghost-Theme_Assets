@@ -22,11 +22,11 @@ He the periods of the 20th century Henri Matisse and other young artists. Philos
 
 **Summer 2003** — All The loud for this meant that there's a huge hill. Twitter apps are developed to design a tipping point. That Android, or even tastes, good does it on paper you prototype it. Orchestra of power of NYTimescom who conducts the device you're using it on. This event was exceptional! See the video below:
 
-<div><div style="width: 100%; height: 0px; position: relative; padding-bottom: 56.2493%;"><iframe src="https://www.youtube.com/embed/9Sc-ir2UwGU?wmode=transparent&rel=0&autohide=1&showinfo=0&enablejsapi=1" frameborder="0" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe></div></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sc-ir2UwGU" frameborder="0" allowfullscreen></iframe>
 <br>
 
 **Today** — This is a simple placeholder. These words won’t make any sense and it's fine. The goal here is to focus on the container not on the content. Pencil its and paper as their first resort that Google has. Senses a powerful product, which effectively removed steam and is. Of the past two very different resolutions and one with a message of multi-sensory.
 
-*(Psst psst.. Want to start a website like this one? Request your [free 21-Day trial here](http://firepress.org/blog/sign-up-for-your-free-21-day-trial-at-firepress/))*
+*(Psst... Want to start a website just like this one? Request your [free 21-Day trial here](http://firepress.org/blog/sign-up-for-your-free-21-day-trial-at-firepress/))*
 
-<a href="/news/about-us/" class="button button-block button-primary button-rounded">About Us ></a>
+<br><a href="/news/about-us/" class="button button-block button-primary button-rounded">About Us ></a><br>

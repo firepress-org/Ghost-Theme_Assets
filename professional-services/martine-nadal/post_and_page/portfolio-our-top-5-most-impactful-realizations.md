@@ -29,7 +29,7 @@
 ![](https://raw.githubusercontent.com/firepress-org/theme-assets/master/professional-services/martine-nadal/images/portfolio-top-5/top-5-103.jpg)
 
 **Context** — The 42nd edition of the Digital Festival of Photography is one of the most prestigious... This simple placeholder is used for this live demo website. This showcase exists to help your mind projects how your website will look like.<br>
-**Challenge** — In one word, originality. Little time, almost no money with and awesome idea... It all started when we had to do a presentation (…). This simple placeholder is used for this live demo website. This showcase exists to help your mind projects how your.
+**Challenge** — In one word, originality. Little time, almost no money and awesome idea... It all started when we had to do a presentation (…). This simple placeholder is used for this live demo website. This showcase exists to help your mind projects how your.
 
 > Learn to dance in the storm so when life hands you a stormy weather, you just glide through it.<br>
 — Phil Brookes
@@ -41,7 +41,7 @@
 ![](https://raw.githubusercontent.com/firepress-org/theme-assets/master/professional-services/martine-nadal/images/portfolio-top-5/top-5-104.jpg)
 
 **Context** — Surf is patience and strategy. Knowing when to take a wave or not is all about... This simple placeholder is used for this live demo website. This showcase exists to help your mind projects how your website will look like.<br>
-**Challenge** — They told us the only way to get to Nivana island was to take the boat of... It all started when we had to do a presentation (…). This simple placeholder is used for this live demo website. This showcase exists to help your mind projects how your website will look like. This block of content should help you to give you a good idea about how your website looks like with real life content.
+**Challenge** — They told us the only way to get to Nivana island was to take the boat of... It all started when we had to do a presentation… This block of content should help you to give you a good idea about how your website looks like with real life content.
 
 > Never drive away from good surf.<br>
 — Roger Sharp
@@ -58,6 +58,6 @@
 > Running is nothing more than a series of arguments between the part of your brain that wants to stop and the part that wants to keep going<br>
 — Terry Fox
 
-*(Psst psst.. Want to start a website like this one? Request your [free 21-Day trial here](http://firepress.org/blog/sign-up-for-your-free-21-day-trial-at-firepress/))*
+*(Psst... Want to start a website just like this one? Request your [free 21-Day trial here](http://firepress.org/blog/sign-up-for-your-free-21-day-trial-at-firepress/))*
 
-<a href="/news/portfolio/" class="button button-block button-primary button-rounded">Back to Portfolio</a>
+<br><a href="/news/portfolio/" class="button button-block button-primary button-rounded">Portfolio ></a><br>

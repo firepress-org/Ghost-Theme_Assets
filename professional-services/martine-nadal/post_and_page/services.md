@@ -13,8 +13,7 @@ We shine at:
 
 ![](https://raw.githubusercontent.com/firepress-org/theme-assets/master/professional-services/martine-nadal/images/production.jpg)
 
-### Social networks nurturing
-<br>
+### Social networks nurturing <br>
 
 Operate and execute the core of your business is taking all your time? This is not a reason to give up on social networks. Let our creative people do it for you!
 
@@ -50,65 +49,6 @@ Operate and execute the core of your business is taking all your time? This is n
     </div>
 </div>
 
-<div class="grid">
-    <div class="col-10-12 mobile-col-10-12">
-        <div class="content">
-💡 Publish original content over 3 social networks<br>
-💡 Twice a day<br>
-💡 7 days a week<br>
-💡 Billed each month
-        </div>
-    </div>
-    <div class="col-2-12 mobile-col-2-12">
-        <div class="content push-right">
-975$
-        </div>
-    </div>
-</div>
-
----
-
-### Logo
-<br>
-
-Starting from scratch or need to refresh your brand, we are here to help. Your logo exists to make your first impression a great one.
-
-<div class="grid">
-    <div class="col-10-12 mobile-col-10-12">
-        <div class="content">
-🕯 Includes 3 hours of creation<br>
-🕯 Includes communication fees<br>
-🕯 PSD and vector output
-        </div>
-    </div>
-    <div class="col-2-12 mobile-col-2-12">
-        <div class="content push-right">
-450$
-        </div>
-    </div>
-</div>
-
----
-
-### SEO optimization
-<br>
-
-Search engine optimization (SEO) essential. SEO is about making your website speak the same language as Google, Yahoo, Bing and other search engines. If you are not certain if your site is optimized then it's probably not. We use [FirePress](http://firepress.org/) as our core content management system (CMS). It makes each page and posts SEO friendly.
-
-<div class="grid">
-    <div class="col-10-12 mobile-col-10-12">
-        <div class="content">
-💡 Depends so much on the quality of your existing content<br>
-💡 Please contact us
-        </div>
-    </div>
-    <div class="col-2-12 mobile-col-2-12">
-        <div class="content push-right">
-n/a
-        </div>
-    </div>
-</div>
-
 ---
 
 ### Testimonials
@@ -138,6 +78,6 @@ n/a
 
 ![](https://raw.githubusercontent.com/firepress-org/theme-assets/master/professional-services/martine-nadal/images/animated-good-job.gif)
 
-*(Psst psst.. Want to start a website like this one? Request your [free 21-Day trial here](http://firepress.org/blog/sign-up-for-your-free-21-day-trial-at-firepress/))*
+*(Psst... Want to start a website just like this one? Request your [free 21-Day trial here](http://firepress.org/blog/sign-up-for-your-free-21-day-trial-at-firepress/))*
 
-<a href="/news/portfolio/" class="button button-block button-primary button-rounded">Portfolio ></a>
+<br><a href="/news/portfolio/" class="button button-block button-primary button-rounded">Portfolio ></a><br>

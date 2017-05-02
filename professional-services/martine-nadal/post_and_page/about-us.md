@@ -1,8 +1,8 @@
 Agency BrandHere has opened its doors 10 years ago doing marketing for accounts like Toyota, Cascade, Lafleur and other well-respected brands.
 
-This simple placeholder is used for this live demo website. This block of content should help you to give you a good idea about how your website looks like with real life content.
+### How did we get here?
 
-If you wonder where we come from, read our detailed [biography here](/news/biography/).
+Martine Nadal worked for this text is only used as a placeholder. At exist, that math anxiety activates much larger role in our users 🙏🙏🙏. Them of third-graders, published this will dumb down students’ understanding or doing emotionally. Consult Martine's [biography here](/news/biography/) to get the big picture.
 
 ![](https://raw.githubusercontent.com/firepress-org/theme-assets/master/professional-services/martine-nadal/images/office-conference.jpg)
 
@@ -11,18 +11,14 @@ If you wonder where we come from, read our detailed [biography here](/news/biogr
 
 ### How can we help you?
 
-This simple placeholder is used for this live demo website. This showcase exists to help your mind projects how your website will look like 😙. 
+This showcase exists to help your mind projects how your website will look like 😙. This simple placeholder is used for this live demo website. This block of content should help you.
 
 This is a simple placeholder. These words won’t make any sense and it's fine. This block of content should help you to give you a good idea.
-
-### How did we get here?
-
-This text is only used as a placeholder. At exist, that math anxiety activates much larger role in our users 🙏🙏🙏. Them of third-graders, published this will dumb down students’ understanding or doing emotionally.
 
 ### Why can you trust us?
 
 Please take a look at our [portfolio](/news/portfolio/) I received over the years from satisfied clients (*and organizations I helped pro-bono*). This showcase exists to help your mind projects how your website will look like.
 
-*(Psst psst.. Want to start a website like this one? Request your [free 21-Day trial here](http://firepress.org/blog/sign-up-for-your-free-21-day-trial-at-firepress/))*
+*(Psst... Want to start a website just like this one? Request your [free 21-Day trial here](http://firepress.org/blog/sign-up-for-your-free-21-day-trial-at-firepress/))*
 
-<a href="/news/contact/" class="button button-block button-primary button-rounded">Contact ></a>
+<br><a href="/news/contact/" class="button button-block button-primary button-rounded">Contact ></a><br>
