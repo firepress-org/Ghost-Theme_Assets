@@ -1,5 +1,8 @@
 ### How to use this
 
-If you feel more confortable to write into a Word document, use this file. From there our team will kick your project and adapt your content on your new website.
+If you feel more confortable to write into a Word document first, just use this file. From there our team will kick your project and adapt your content in your new website.
 
-Ignore if you want to write directly in your website editor. 
+Ignore if you prefer to write directly in your Ghost editor.
+
+Cheers!
+Pascal
