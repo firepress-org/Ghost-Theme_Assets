@@ -2,6 +2,10 @@
 
 https://raw.githubusercontent.com/firepress-org/theme-assets/master/professional-services/martine-nadal/images/main-header.jpg
 
+https://raw.githubusercontent.com/firepress-org/theme-assets/master/professional-services/martine-nadal/images/main-header-b.jpg
+
+https://raw.githubusercontent.com/firepress-org/theme-assets/master/professional-services/martine-nadal/images/main-header-c.jpg
+
 https://raw.githubusercontent.com/firepress-org/theme-assets/master/professional-services/martine-nadal/images/core-author-profile.jpg
 
 https://raw.githubusercontent.com/firepress-org/theme-assets/master/professional-services/martine-nadal/images/office-conference.jpg
