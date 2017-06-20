@@ -8,3 +8,5 @@ https://raw.githubusercontent.com/firepress-org/theme-assets/master/common-tools
 https://raw.githubusercontent.com/firepress-org/theme-assets/master/common-tools/profil/profil_woman_128-martine-nadall.jpg
 
 https://raw.githubusercontent.com/firepress-org/theme-assets/master/common-tools/profil/brand-logo-flamme.jpg
+
+https://raw.githubusercontent.com/firepress-org/theme-assets/master/common-tools/profil/avatar.png
