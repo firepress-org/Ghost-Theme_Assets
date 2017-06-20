@@ -10,3 +10,5 @@ https://raw.githubusercontent.com/firepress-org/theme-assets/master/common-tools
 https://raw.githubusercontent.com/firepress-org/theme-assets/master/common-tools/profil/brand-logo-flamme.jpg
 
 https://raw.githubusercontent.com/firepress-org/theme-assets/master/common-tools/profil/avatar.png
+
+https://raw.githubusercontent.com/firepress-org/theme-assets/master/common-tools/profil/logo-firepress-256.png
