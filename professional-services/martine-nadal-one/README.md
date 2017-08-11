@@ -1,2 +1,3 @@
 ### Live Demo
-http://martinenadal.tk/
+
+http://play-with-ghost.com/

@@ -1,0 +1,1 @@
+I help businesses to focus their marketing efforts with dedication and passion. Also, feel free to launch your own website (and blog) based on this template. The folks at FirePress are killing it!
