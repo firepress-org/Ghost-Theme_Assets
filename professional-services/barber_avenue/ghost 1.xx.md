@@ -1,1 +1,0 @@
-Ghost 1.xx and above
