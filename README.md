@@ -1,20 +1,14 @@
 # FirePress Default Installation
 
-The interesting content is in the folder **112_readiness**.
-There is three sub-folder:
-- content_copywriting
-- images
-- other-stuff
-
-🙈 I’m aware that this README needs **more love**. Time is the biggest challenge here. Feel free to [buzz me on Twitter ](https://twitter.com/askpascalandy) if you have any questions or comments.
 
 ## Download
-https://github.com/firepress-org/themes-content/archive/master.zip (+- 39 Mo)
+
+https://github.com/firepress-org/themes-content/archive/master.zip
+
 
 ## Goal
-At [FirePress](http://firepress.org/) 🔥📰, our mission is to empower entrepreneurs, freelancers and organizations to build an outstanding mobile-first website. [You can get](http://firepress.org/) your landing page and Ghost installation today.
 
-Specifically, this is the default **content** we use for all new Ghost installations at FirePress 🔥📰. By doing this extra step for our clients, they can see quickly how their brand new website feels like. As new publishers, they can also understand how it made under the hood.
+This is the default **content** we use for all new Ghost installations at FirePress 🔥📰. By doing this extra step for our clients, they can see quickly how their brand new website feels like. As new publishers, they can also understand how it’s made under the hood.
 
 **Content** here means:
 
@@ -23,44 +17,47 @@ Specifically, this is the default **content** we use for all new Ghost installat
 - backup files (json)
 - infographic file (Keynote, Photoshop)
 
-## Live Demo
-Almost there! 2016-07-23_21h09
 
-## History (changelog)
-https://github.com/firepress-org/themes-content/blob/master/changelog.md
+##  Live Demo (online)
 
-## Repo URL
-https://github.com/firepress-org/themes-content/blob/master/112_readiness/README.md
+Head over to [play-with-ghost.com](https://play-with-ghost.com/) . It’s is a playground to learn about Ghost. You can see Ghost themes and login into the **admin panel** by using the available credentials. In short, you can try Ghost on the spot without having to sign-up!
 
-## Who Wrote This?
-Pascal Andy — Founder of [FirePress](http://firepress.org/) 🔥📰. You can find me on [Twitter](https://twitter.com/_pascalandy) and on my [personal blog](http://pascalandy.com/)
+And since Auguest 24th 2018, you can try **Ghost version 2** here:<br>
+https://play-with-ghost.com/ghost-themes/firepress-vapor-for-barbershops/
 
----
-
-# For developer only
-The section is interesting for developers and powerusers.
 
 ## Contributing
-1. Fork it!
+
+The power of communities pull request and forks means that `1 + 1 = 3`. Help me make this repo a better one!
+
+1. Fork it
 2. Create your feature branch: `git checkout -b my-new-feature`
 3. Commit your changes: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
+5. Submit a pull request
 
-## Backlog
-null
 
-## Issues 
-null
+## Copyright & License
 
-## Licence
-GNU GENERAL PUBLIC LICENCE | Version 3, 29 June 2007 | See it [here](https://github.com/pascalandy/GNU-GENERAL-PUBLIC-LICENSE/blob/master/LICENSE.md).
+- This git repo is under the **GNU** license information. [Find it here](https://github.com/pascalandy/GNU-GENERAL-PUBLIC-LICENSE).
 
-**No matter how I thrust the open source community, I feel it not best practice to**: 
 
-- 1) Use a link that points to a licence written by a third party
-- 2) Use licence(s) proposed by GitHub
+## FirePress Hosting
 
-If any changes happen, how do you know it's still right for you? By using scenario #1 or #2, you could put yourself in a position where you may lose the control of what the licence was supposed to mean at the moment you read it.
+**At FirePress we do one thing and we do it with our whole heart: we host fully managed Ghost’s websites**. The idea behind FirePress is to empower freelancers and small organizations to be able to build an outstanding mobile-first website.
 
-I believe everyone should fork the licence they want to use on their own repos. The one I use is [here](https://github.com/pascalandy/GNU-GENERAL-PUBLIC-LICENSE/blob/master/LICENSE.md). Feel free to fork it :)
+We also offer a **workshop** where participants ends up with a website/blog they can easily operate themselves. Details are coming soon. It is available in those cities:
+
+- Montréal - Canada
+- Toronto - Canada
+- New-York - USA
+- Québec City - Canada
+
+Because we believe your website should speak up in your name, we consider our mission completed once your site has become [your impresario](https://play-with-ghost.com/ghost-themes/why-launching-your-next-website-with-firepress/). Start your [free trial here](https://play-with-ghost.com/ghost-themes/free-10-day-trial/).
+
+
+## Keep in touch
+
+- [Pascal Andy’s « now page »](https://pascalandy.com/blog/now/)
+- Follow me on [Twitter](https://twitter.com/askpascalandy)
+- Find more Ghost Themes on [play-with-ghost.com](https://play-with-ghost.com/)
