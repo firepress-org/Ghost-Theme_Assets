@@ -1,4 +1,4 @@
-# FirePress Default Installation
+# Ghost-Theme_Assets
 
 
 ## Download
@@ -6,7 +6,7 @@
 https://github.com/firepress-org/themes-content/archive/master.zip
 
 
-## Goal
+## What is this?
 
 This is the default **content** we use for all new Ghost installations at FirePress 🔥📰. By doing this extra step for our clients, they can see quickly how their brand new website feels like. As new publishers, they can also understand how it’s made under the hood.
 
